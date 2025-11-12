@@ -1,5 +1,5 @@
 header{
-    background-color: #405d63;
+    background-color: #634040;
     padding: 5px;
     text-align: left;
     position: fixed;
@@ -10,8 +10,8 @@ header{
 }
 
 header h1 {
-    color: #87c0cc;
-    border: 3px solid #70878b;
+    color: #cc8787;
+    border: 3px solid #8b7070;
     border-radius: 15px;
     padding: 12px 24px;
     display:inline-block;
@@ -27,7 +27,7 @@ header h1 {
 }
 
 body {
-    background-color: #63858b;
+    background-color: #8b6363;
 }
 
 .Line {
@@ -35,7 +35,7 @@ position: relative;
 padding: 4px;
 top: 112px;
 z-index: 1;
-background:#344b50;
+background:#503434;
 }
 
 .Line ul{
@@ -53,7 +53,7 @@ background:#344b50;
 
 .Line li a{
     Text-decoration: none;
-    color:#63858b
+    color:#8b6363
 }
 
 .Line li a:hover{
@@ -61,7 +61,7 @@ text-decoration: none;
 }
 
 .Colored-Box {
-  background-color: #436066;
+  background-color: #664343;
   border: 1px;
   padding: 4px 1px;
  margin-left: -41px;
@@ -76,7 +76,7 @@ position: relative;
 padding: 4px;
 top: 112px;
 z-index: 1;
-background:#344b50;
+background:#503434;
 }
 
 .Strip ul{
@@ -93,16 +93,16 @@ background:#344b50;
 }
 .Strip li a{
     Text-decoration: none;
-    color:#63858b
+    color:#8b6363
 }
 .Strip li a:hover{
   text-decoration: none;
 }
 .One {
-  background-color: #567379;
+  background-color: #795656;
 }
 .One h2{
-  background-color: #63858b;
+  background-color: #8b6363;
   display: flex;
   flex-direction:column;
   position: relative;
@@ -110,7 +110,7 @@ background:#344b50;
 }
 
 .Two {
-  background-color: #567379;
+  background-color: #795656;
    flex-direction:column;
   position: relative;
   margin-top: 50px;
@@ -119,8 +119,8 @@ footer {
     position: fixed;
   bottom: 0;
   width: 100%;
-  background: #405d63;
-  color: #87c0cc;
+  background: #634040;
+  color: #cc8787;
  font-style: oblique;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
@@ -131,5 +131,5 @@ footer {
 }
 
 footer a {
-  color: #79cfe0;
+  color: #e07979;
 }
