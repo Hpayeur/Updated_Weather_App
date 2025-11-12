@@ -98,3 +98,22 @@ background:#344b50;
 .Strip li a:hover{
   text-decoration: none;
 }
+main {
+  position: relative;
+  top: 100px;
+  display:inline-block;
+}
+
+footer {
+  background: #cfb0d6;
+  color: #815d99;
+  font-size: 1.2em;
+  font-family: cursive;
+  padding: 30px;
+  text-align: center;
+  white-space: nowrap;
+  top: 600px;
+}
+footer a {
+  color: #7b4c9b;
+}
