@@ -20,6 +20,11 @@ header h1 {
     font-weight: bold;
     font-size: 2em;
 }
+.Logo{
+  position: relative;
+  float:left;
+  margin-right: 10px;
+}
 
 body {
     background-color: #63858b;
