@@ -103,6 +103,7 @@ main{
 }
 .One {
   background-color: #795656;
+  margin: 5px 10px 15px 10px;
 }
 .One h2{
   background-color: #8b6363;
@@ -124,6 +125,8 @@ main{
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.3em;
   font-weight: bold;
+   padding-right: 15px;
+  padding-left: 15px;
 }
 .One h4{
     display: flex;
@@ -134,6 +137,8 @@ main{
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.2em;
   font-weight: light;
+   padding-right: 15px;
+  padding-left: 15px;
 }
 
 .One img{
@@ -143,6 +148,8 @@ main{
   flex-direction:row;
   justify-content: center;
   align-items: center;
+   padding-right: 15px;
+  padding-left: 15px;
 }
 
 .One ul{
@@ -150,6 +157,8 @@ main{
   flex-direction:column;
   position: relative;
   margin-top: -50px;
+   padding-right: 15px;
+  padding-left: 15px;
 }
 
 #weather-data {
@@ -173,7 +182,7 @@ main{
   background-color: #795656;
    flex-direction:column;
   position: relative;
-  margin-top: 50px;
+  margin: 50px 10px 15px 10px;
 }
 footer {
     position: fixed;
