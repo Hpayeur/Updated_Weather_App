@@ -151,6 +151,24 @@ main{
   position: relative;
   margin-top: -50px;
 }
+
+#weather-data {
+    display: flex;              
+    align-items: flex-start;    
+    gap: 20px;                  
+  }
+
+  #weather-data img {
+    max-width: 150px;           
+    height: auto;
+    display: block;
+  }
+
+  #weather-data ul {
+    margin: 0;                  
+    padding-left: 20px;         
+  }
+
 .Two {
   background-color: #795656;
    flex-direction:column;
