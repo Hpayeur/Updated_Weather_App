@@ -109,10 +109,10 @@ main{
   display: flex;
   flex-direction:column;
   position: relative;
-  margin-top: 130px;
+  margin-top: 120px;
   font-style: oblique;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 1.4em;
+  font-size: 1.6em;
 }
 .One h3 {
   display: flex;
@@ -121,7 +121,8 @@ main{
   margin-top: 5px;
     font-style: oblique;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 1.2em;
+  font-size: 1.3em;
+  font-weight: bold;
 }
 .One h4{
     display: flex;
@@ -131,6 +132,7 @@ main{
     font-style: oblique;
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.2em;
+  font-weight: light;
 }
 
 .One img{
