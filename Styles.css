@@ -110,6 +110,7 @@ main{
   flex-direction:column;
   position: relative;
   margin-top: 120px;
+  padding: 10px;
   font-style: oblique;
   font-family: 'Times New Roman', Times, serif;
   font-size: 1.6em;
@@ -143,6 +144,13 @@ main{
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+.One ul{
+ display: flex;
+  flex-direction:column;
+  position: relative;
+  margin-top: -50px;
 }
 .Two {
   background-color: #795656;
