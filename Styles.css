@@ -34,14 +34,27 @@ background:#344b50;
 }
 
 .Line ul{
-max-width: 1600px;
-white-space: nowrap;
-margin: 0 auto;
-text-align: center;
+ white-space: nowrap;
+  max-width: 1600px;
+  margin: 0 auto;
+  text-align: left;
 }
 
 .Line li {
-width: 30%;
-display: flex;
-font-size: 20px;
+  width: 10%;
+  display: inline-block;
+  font-size: 30px;
+}
+.Line li a{
+    Text-decoration: none;
+    color:#63858b
+}
+.Line li a:hover{
+text-decoration: none;
+}
+.Colored-Box {
+  background-color: #436066;
+  border: 1px;
+  padding: 4px 1px;
+  margin: 0 auto;
 }
