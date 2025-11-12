@@ -105,15 +105,20 @@ main {
 }
 
 footer {
-  background: #cfb0d6;
-  color: #815d99;
-  font-size: 1.2em;
-  font-family: cursive;
+    position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #405d63;
+  color: #87c0cc;
+ font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.4em;
   padding: 30px;
   text-align: center;
   white-space: nowrap;
-  top: 600px;
 }
+
 footer a {
-  color: #7b4c9b;
+  color: #79cfe0;
 }
