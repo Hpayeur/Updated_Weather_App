@@ -98,6 +98,9 @@ background:#503434;
 .Strip li a:hover{
   text-decoration: none;
 }
+main{
+  position: relative;
+}
 .One {
   background-color: #795656;
 }
@@ -107,8 +110,29 @@ background:#503434;
   flex-direction:column;
   position: relative;
   margin-top: 130px;
+  font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.4em;
+}
+.One h3 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 5px;
+    font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2em;
 }
 
+.One h4{
+    display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 5px;
+    font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2em;
+}
 .Two {
   background-color: #795656;
    flex-direction:column;
