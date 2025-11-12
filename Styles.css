@@ -99,19 +99,21 @@ background:#344b50;
   text-decoration: none;
 }
 .One {
-  position: relative;
-  top: 120px;
-  display:inline-block;
-  font-style: oblique;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-    font-size: 1.2em;
   background-color: #567379;
 }
-.Two {
+.One h2{
+  background-color: #63858b;
+  display: flex;
+  flex-direction:column;
   position: relative;
-  top: 130px;
+  margin-top: 130px;
+}
+
+.Two {
   background-color: #567379;
+   flex-direction:column;
+  position: relative;
+  margin-top: 50px;
 }
 footer {
     position: fixed;
