@@ -98,7 +98,13 @@ background:#344b50;
 .Strip li a:hover{
   text-decoration: none;
 }
-main {
+.One {
+  position: relative;
+  top: 25px;
+  display:inline-block;
+}
+
+.Two {
   position: relative;
   top: 100px;
   display:inline-block;
