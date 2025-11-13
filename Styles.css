@@ -208,12 +208,26 @@ main{
 
 .flex-col {
   display: flex;              
-    gap: 15px;                   
-    flex-wrap: wrap;             
-    justify-content: center;
-    max-width: 100%;            
-    height: auto;                
-    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.temp-data{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 32px;
+ height:32px;
+   font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 footer {
