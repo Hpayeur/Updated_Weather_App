@@ -185,6 +185,27 @@ main{
   margin: 50px 15px 10px 10px;
 }
 
+.Two h3{
+  margin-top: 20px;
+    padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 15px;
+    font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.3em;
+  font-weight: bold;
+}
+.Two h4{
+  margin-top: 5px;
+    padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 20px;
+   font-style: oblique;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.2em;
+  font-weight: light;
+}
+
 .flex-col {
   display: flex;              
     gap: 15px;                   
