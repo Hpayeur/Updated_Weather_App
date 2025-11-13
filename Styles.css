@@ -182,8 +182,19 @@ main{
   background-color: #795656;
    flex-direction:column;
   position: relative;
-  margin: 50px 10px 15px 10px;
+  margin: 50px 15px 10px 10px;
 }
+
+.flex-col {
+  display: flex;              
+    gap: 15px;                   
+    flex-wrap: wrap;             
+    justify-content: center;
+    max-width: 100%;            
+    height: auto;                
+    border-radius: 8px;
+}
+
 footer {
     position: fixed;
   bottom: 0;
